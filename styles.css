@@ -1,9 +1,30 @@
-h1{
+.firstbox{
     background-color: aquamarine;
     color: black;
     text-align: center;
+    border-width: 10px;
     border: solid blue 15px;
     outline:  solid red 15px;
     padding: 20%;
-    margin: 50px 50px 50px 50px;
+    margin: 10px 40px 10px 40px;
+}
+.secondbox{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    border-width: 10px;
+    border: solid blue 15px;
+    outline:  solid red 15px;
+    padding: 20%;
+    margin: 20px 30px 20px 30px;
+}
+.thirdbox{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    border-width: 10px;
+    border: solid blue 15px;
+    outline:  solid red 15px;
+    padding: 20%;
+    margin: 30px 40px 30px 40px;
 }
