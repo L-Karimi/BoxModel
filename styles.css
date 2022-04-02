@@ -1,0 +1,9 @@
+h1{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    border: solid blue 15px;
+    outline:  solid red 15px;
+    padding: 20%;
+    margin: 50px 50px 50px 50px;
+}
