@@ -7,10 +7,8 @@ h3{
     text-align: center;
 }
 .firstbox{
-    background-color: aquamarine;
     color: black;
     text-align: center;
-    border-width: 10px;
     border: solid blue 15px;
     outline:  solid red 15px;
     padding:  30% 30% 10% 30%;
@@ -18,23 +16,19 @@ h3{
 
 }
 .secondbox{
-    background-color: aquamarine;
     color: black;
     text-align: center;
-    border-width: 10px;
     border: solid blue 15px;
     outline:  solid red 15px;
     padding: 30% 30% 10% 30%;
     margin: 20px 30px 20px 30px;
 }
 .thirdbox{
-    background-color: aquamarine;
     color: black;
     text-align: center;
-    border-width: 10px;
     border: solid blue 15px;
     outline:  solid red 15px;
-    padding:  30% 30% 20% 30%;
+    padding:  30% 10% 20% 30%;
     margin: 30px 40px 30px 40px;
 
 }
